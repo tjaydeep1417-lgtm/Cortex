@@ -37,7 +37,7 @@ class OCRService {
 
       final request = http.MultipartRequest('POST', url);
 
-      request.headers['apikey'] = 'K85643916888957';
+      request.headers['apikey'] = 'API Key for ocr';
 
       request.fields['OCREngine'] = '3';
       request.fields['language'] = 'auto';
