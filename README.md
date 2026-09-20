@@ -1,17 +1,24 @@
-# smart_study
+Intelligent Study App that turns handwritten notes into
+Summaries, flashcards, and quiz questions
 
-A new Flutter project.
+## Features
+- Handwritten note capture via camera
+- Text recognition via OCR
+- AI generated summary 
+- Flashcards
+- Quiz 
+- Mobile-first app built with Flutter framework 
 
-## Getting Started
+## Tech stack
+- Flutter / Dart
+- OCR.space API
+- Gemini API 
 
-This project is a starting point for a Flutter application.
+## Workflow
+Camera → OCR → AI processing → Summary / Flash Cards / Quiz
 
-A few resources to get you started if this is your first Flutter project:
+## Prototype
+Prototype tested on iQOO smartphone.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Team
+Cortex
