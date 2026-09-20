@@ -1,6 +1,5 @@
 
-Intelligent Study App that turns handwritten notes into
-Summaries, flashcards, and quiz questions
+SmartStudy is a learning companion for students powered by AI and helps simplify the entire process of studies through organizing, comprehending, revising, and practicing the material.
 
 ## Features
 - Handwritten note capture via camera
