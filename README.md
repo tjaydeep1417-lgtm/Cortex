@@ -1,3 +1,4 @@
+
 Intelligent Study App that turns handwritten notes into
 Summaries, flashcards, and quiz questions
 
@@ -21,4 +22,4 @@ Camera → OCR → AI processing → Summary / Flash Cards / Quiz
 Prototype tested on iQOO smartphone.
 
 ## Team
-Cortex
+Erinnon
