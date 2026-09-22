@@ -11,7 +11,7 @@ class AIService {
   static const String apiKey = 'API- Key';
 
   static GenerativeModel get model {
-    return GenerativeModel(model: 'gemini-3.5-flash', apiKey: apiKey);
+    return GenerativeModel(model: 'gemini-3.1-flash-lite', apiKey: apiKey);
   }
 
   // flashcards
